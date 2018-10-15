@@ -14,3 +14,9 @@ defaults:
       path: ""
     values:
       layout: default
+      
+
+# Navigation pages
+nav_pages:
+  #- index.html
+  - about.md
