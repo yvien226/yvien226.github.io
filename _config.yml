@@ -11,9 +11,11 @@ theme: jekyll-theme-cayman
 #
 defaults:
   - scope:
-      path: ""
+      path: ''
+      type: pages
     values:
-      layout: default
+      layout: page
+      comments: false
       
 
 # Navigation pages
