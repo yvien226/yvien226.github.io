@@ -7,4 +7,5 @@ theme: jekyll-theme-cayman
       
 github:
   is_project_page: true
+  home_url: ./
   about_url: ./aboutme.html
