@@ -1,20 +1,9 @@
-# Site settings
 title: Yee Vien's portfolio
 description: My github page
 email: yvien90gmail.com
-
-#logo: /assets/img/logo.png
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
       
-
-# Navigation pages
-#nav_pages:
-  #- index.html
-  #- about.md
-  
-  
-  #urls
-  github:
-    about_url: https://yvien226.github.io/aboutme.html
+github:
+  about_url: https://yvien226.github.io/aboutme.html
