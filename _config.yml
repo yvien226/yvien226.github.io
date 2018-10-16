@@ -19,9 +19,9 @@ defaults:
       
 
 # Navigation pages
-nav_pages:
+#nav_pages:
   #- index.html
-  - about.md
+  #- about.md
   
   
   #urls
