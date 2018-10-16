@@ -22,3 +22,8 @@ defaults:
 nav_pages:
   #- index.html
   - about.md
+  
+  
+  #urls
+  github:
+    about_url: https://yvien226.github.io/aboutme.html
