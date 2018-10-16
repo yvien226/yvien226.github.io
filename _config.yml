@@ -7,15 +7,6 @@ email: yvien90gmail.com
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-
-#
-defaults:
-  - scope:
-      path: ''
-      type: pages
-    values:
-      layout: page
-      comments: false
       
 
 # Navigation pages
