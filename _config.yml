@@ -7,4 +7,4 @@ theme: jekyll-theme-cayman
       
 github:
   is_project_page: true
-  about_url: https://yvien226.github.io/aboutme.html
+  about_url: ./aboutme.html
