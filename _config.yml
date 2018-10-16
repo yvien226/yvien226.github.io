@@ -2,6 +2,7 @@ title: Yee Vien's portfolio
 description: My github page
 email: yvien90gmail.com
 show_downloads: true
+is_project_page: true
 google_analytics:
 theme: jekyll-theme-cayman
       
