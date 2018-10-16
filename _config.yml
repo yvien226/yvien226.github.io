@@ -2,9 +2,9 @@ title: Yee Vien's portfolio
 description: My github page
 email: yvien90gmail.com
 show_downloads: true
-is_project_page: true
 google_analytics:
 theme: jekyll-theme-cayman
       
 github:
+  is_project_page: true
   about_url: https://yvien226.github.io/aboutme.html
