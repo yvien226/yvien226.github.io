@@ -8,4 +8,5 @@ theme: jekyll-theme-cayman
 github:
   is_project_page: true
   home_url: ./
+  contact_url: ./contact.html
   about_url: ./aboutme.html
