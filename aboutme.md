@@ -17,7 +17,7 @@ Some of the tools that I used include:
 - Excel: For Data Analysis and building interactive models
 - Simulink: For Data Simulation
 
-I have always been interested in Mathematics, Programming and Technology. I love using data to tell compelling stories and to deliver innovative technological solutions to solve wide variety of problems. I also enjoy coding and learning new programming language in my spare time.
+I have always been interested in Mathematics, Programming and Technology. I love using data to tell compelling stories and to deliver innovative technological solutions to solve wide variety of problems. I also enjoy coding and learning new programming languages in my spare time.
 
 If you would like to know more about me or if you would just like to chat, feel free to contact me via ??
 
