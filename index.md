@@ -6,10 +6,12 @@ layout: default
 This portfolio contains a list of data science and data analysis projects that I created for hobby, self learning, and exploring Machine Learning.
 
 ## Data Analysis
-
+* * *
 
 ## Data Visualization
+* * *
   ### Interactive Resume (Power BI)
 
 ## Machine Learning
+* * *
 
