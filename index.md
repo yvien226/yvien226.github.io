@@ -10,8 +10,8 @@ This portfolio contains a list of data science and data analysis projects that I
 
 ## Data Visualization
 * * *
-Below are a list of visualization dashboards that I created using Power BI or Tableau
-* [**Interactive Resume (Power BI): **](https://bit.ly/yeevienresume) My Interactive Resume 
+Below are a list of visualization dashboards that I created using Power BI or Tableau. Click on the LINK to view it.
+* **Interactive Resume (Power BI):**  [LINK](https://bit.ly/yeevienresume) My Interactive Resume 
 
 
 ## Machine Learning
