@@ -3,7 +3,7 @@ title: About Me
 layout: default
 ---
 
-# About me
+# About Me
 My name is Yee Vien Ng. I was born in Selangor, Malaysia but I have been living and working in Melbourne, Australia for the past 9 years.
 
 I graduated at RMIT University with Bachelor of Mathematics, and I am presently a Modelling Analyst. During my career, I assisted  clients to develop advanced analytical models to help investigate and deliver improvements of the business. 
