@@ -35,22 +35,6 @@
       {{ content }}
 
       <footer class="site-footer">
-        <ul>
-          {% if site.github_username %}
-          <li>
-            <a href="https://github.com/{{ site.github_username }}">
-              <i class="fa fa-github"></i> GitHub
-            </a>
-          </li>
-        {% endif %}
-        {% if site.linkedin_username %}
-          <li>
-            <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-              <i class="fa fa-github"></i> GitHub
-            </a>
-          </li>
-        {% endif %}
-        </ul>
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
