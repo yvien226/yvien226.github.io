@@ -4,6 +4,10 @@ email: yvien90gmail.com
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+# socia media links
+github_username: yvien226
+linkedin_username: yeevienng
       
 github:
   is_project_page: true
