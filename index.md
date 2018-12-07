@@ -2,18 +2,18 @@
 layout: default
 ---
 
-# Data Science & Data Analytics Portfolio
-This portfolio contains a list of data science and data analysis projects that I created for hobby, self learning, and exploring Machine Learning.
+# Data Science & Machine Learning Portfolio
+This portfolio contains a list of Data Science, AI and Machine Learning projects that I created for hobby, self learning, and exploring these fields+.
 
 ## Contents: 
-- [Data Analysis](#data-analysis)
-- [Data Visualization](#data-visualization)
 - [Machine Learning](#machine-learning)
+- [Data Visualisation](#data-visualisation)
 
-### Data Analysis
+
+### Machine Learning
 * * *
 
-### Data Visualization
+### Data Visualisation
 * * *
 Below are a list of visualization dashboards that I created using Power BI or Tableau. Click on the [LINK] to view it.
 * **Power BI:**
@@ -22,6 +22,5 @@ Below are a list of visualization dashboards that I created using Power BI or Ta
 * **Tableau:**
 
 
-### Machine Learning
-* * *
+
 
