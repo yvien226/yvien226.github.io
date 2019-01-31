@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Data Science & Machine Learning Portfolio
-This portfolio contains a list of Data Science, AI and Machine Learning projects that I created for hobby, self learning, and exploring these fields+.
+This portfolio contain a list of Data Science, AI and Machine Learning projects that I created for hobby, self learning, and exploring these fields+.
 
 ## Contents: 
 - [Machine Learning](#machine-learning)
@@ -12,9 +12,9 @@ This portfolio contains a list of Data Science, AI and Machine Learning projects
 
 ### Machine Learning
 * * *
-Below are a list of projects that I tackled using Python. Click on the [LINK] to view it.
+Below are a list of Data Science/Machine Learning projects that I tackled using Python. Click on the [LINK] to view it.
 * **Kaggle Projects:**
-  - **Recruit Restaurant Forecasting Vistor:**  [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Kaggle/Recruit%20Restaurant%20Visitor%20Forecasting) I was given 3-5 days to work on this case study and the goal is to predict the number of visitors of each restaurants in Japan for future dates.
+  - **Recruit Restaurant Forecasting Vistor:**  [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Kaggle/Recruit%20Restaurant%20Visitor%20Forecasting) I was given 3-5 days to work on this case study and the goal is to predict the number of visitors of each restaurants in Japan for future dates. The link contains data analysis and prediction scripts.
 
 ### Data Visualisation
 * * *
