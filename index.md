@@ -18,7 +18,7 @@ Below are a list of Data Science/Machine Learning projects that I tackled using 
 
 ### Data Visualisation
 * * *
-Below are a list of visualization dashboards that I created using Power BI or Tableau. Click on the [LINK] to view it.
+Below are a list of visualisation dashboards that I created using Power BI or Tableau. Click on the [LINK] to view it.
 * **Power BI:**
   1. **Interactive Resume:**  [[LINK]](https://bit.ly/yeevienresume) My Interactive Resume.
 
