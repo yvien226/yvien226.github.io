@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Data Science & Machine Learning Portfolio
-This portfolio contain a list of Data Science, AI and Machine Learning projects that I created for hobby, self learning, and exploring these fields+.
+# Data Science, Optimization, AI & Machine Learning Portfolio
+This portfolio contain a list of Data Science, Optimization, AI and Machine Learning projects that I created for hobby, self learning, and exploring these fields+.
 
 ## Contents: 
 - [Machine Learning](#machine-learning)
