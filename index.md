@@ -29,4 +29,4 @@ A list of Visualisation dashboards that I created using Power BI or Tableau. Cli
 * * *
 Mathematical Optimization projects built mainly in LINGO (an Optimization modelling software) and Excel. Click on the [LINK] to view it.
 * **LINGO:**
-  1. **Depot Location:*
+  1. **Depot Location:**
