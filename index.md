@@ -13,9 +13,9 @@ This portfolio contains a list of Data Science, Optimization, AI and Machine Lea
 
 ### Machine Learning
 * * *
-Data Science/Machine Learning projects that I tackled using Python. Click on the [LINK] to view it.
+Data Science/Machine Learning projects that I tackled using Python/R. Click on the [LINK] to view it.
 * **Kaggle Projects:**
-  1. **Recruit Restaurant Forecasting Vistor:**  [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Kaggle/Recruit%20Restaurant%20Visitor%20Forecasting) I was given 3-5 days to work on this case study and the goal is to predict the number of visitors of each restaurants in Japan for future dates. The link contains data analysis and prediction scripts.
+  1. **Recruit Restaurant Forecasting Vistor:**  [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Kaggle/Recruit%20Restaurant%20Visitor%20Forecasting) I was given 3-5 days to work on this case study and the goal is to predict the number of visitors of each restaurants in Japan for future dates. The link contains data analysis and prediction scripts written in Python.
 
 ### Data Visualisation
 * * *
