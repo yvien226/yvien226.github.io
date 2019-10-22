@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Data Science, Optimization, AI & Machine Learning Portfolio
+# My Portfolio
 This portfolio contains a list of Data Science, Optimization, AI and Machine Learning projects that I created for hobby, self learning, and exploring these fields+. 
 
 ## Contents: 
