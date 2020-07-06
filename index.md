@@ -16,6 +16,7 @@ This portfolio contains a list of Data Science, Optimization, AI and Machine Lea
 Data Science/Machine Learning projects that I tackled using Python/R. Click on the [LINK] to view it.
 * **Kaggle Projects:**
   1. **Recruit Restaurant Forecasting Vistor:**  [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Kaggle/Recruit%20Restaurant%20Visitor%20Forecasting) I was given 3-5 days to work on this case study and the goal is to predict the number of visitors of each restaurants in Japan for future dates. The link contains data analysis and prediction scripts written in Python.
+  2. **BigQuery Geotab Intersection Congestion:** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Kaggle/BigQuery%20Geotab%20Intersection%20Congestion) The main objective is to predict wait times at four major city intersections in USA. I explored the data sets using Python and the script can be found in the given link.
 
 ### Data Visualisation
 * * *
