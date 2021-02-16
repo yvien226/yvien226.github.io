@@ -22,7 +22,7 @@ Data Science/Machine Learning projects that I tackled using Python/R. Click on t
 * * *
 A list of Visualisation dashboards that I created using Power BI or Tableau. Click on the [LINK] to view it.
 * **Power BI:**
-  1. **Interactive Resume:**  [[LINK]](https://bit.ly/yeevienresume) My Interactive Resume.
+  1. **Interactive Resume:**  [[LINK]](https://bit.ly/yeevienresume2) My Interactive Resume.
 
 * **Tableau:**
 
