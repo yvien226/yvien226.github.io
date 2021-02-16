@@ -4,9 +4,9 @@ layout: default
 ---
 
 # About Me
-My name is Yee Vien Ng. I was born in Selangor, Malaysia but I have been living and working in Melbourne, Australia since 2009.
+My name is Yee Vien Ng. I was born in Malaysia but I have been living and working in Melbourne, Australia since 2009.
 
-I graduated at RMIT University with Bachelor of Mathematics, and I am presently a Modelling Analyst. During my career, I assisted clients to develop advanced analytical models, apply Mathematical Optimisation and Machine Learning techniques to help investigate and deliver improvements of the business. 
+I graduated at RMIT University with Bachelor of Mathematics, and I am presently a Data Scientist. During my career, I assisted clients to develop advanced analytical models, apply Mathematical Optimisation and Machine Learning techniques to help investigate and deliver improvements of the business. 
 
 Some of the tools that I used include:
 - **MATLAB:** For Data Analysis, Machine Learning and Optimisation
