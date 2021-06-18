@@ -32,4 +32,4 @@ A list of Visualisation dashboards that I created using Power BI or Tableau. Cli
 * * *
 Mathematical Optimisation projects built mainly in LINGO (an Optimisation modelling software) and Excel. Click on the [LINK] to view it.
 * **LINGO:**
-  1. **Optimize Depot Location:** [[LINK]](https://github.com/yvien226/LINGO-Optimization/tree/master/Depot%20Location) This is a simple optimisation project with data being generated randomly. The main objective is to identify the optimal depot location for a water utility to service the maintenance jobs and minimize travel times.
+  1. **Optimise Depot Location:** [[LINK]](https://github.com/yvien226/LINGO-Optimization/tree/master/Depot%20Location) This is a simple optimisation project with data being generated randomly. The main objective is to identify the optimal depot location for a water utility to service the maintenance jobs and minimize travel times.
