@@ -18,7 +18,7 @@ Data Science/Machine Learning projects that I tackled using Python/R. Click on t
   1. **Recruit Restaurant Forecasting Vistor:**  [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Kaggle/Recruit%20Restaurant%20Visitor%20Forecasting) I was given 3-5 days to work on this case study and the goal is to predict the number of visitors of each restaurants in Japan for future dates. The link contains data analysis and prediction scripts written in Python.
   2. **BigQuery Geotab Intersection Congestion:** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Kaggle/BigQuery%20Geotab%20Intersection%20Congestion) The main objective is to predict wait times at four major city intersections in USA. I explored the data sets using Python and the script can be found in the given link.
 * **Others :**
-  1. **Urban Sound Recognition: ** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Deep%20Learning/Urban%20Sound%20Recognition) The main objective is to identify the sound events from the urban area using Convolutional Netural Networks (CNN) and Multilayer Perceptron (MLP). Scripts include real time sound recognition via computer microphone using CNN model.
+  1. **Urban Sound Recognition:** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Deep%20Learning/Urban%20Sound%20Recognition) The main objective is to identify the sound events from the urban area using Convolutional Netural Networks (CNN) and Multilayer Perceptron (MLP). Scripts include real time sound recognition via computer microphone using CNN model.
 
 ### Data Visualisation
 * * *
