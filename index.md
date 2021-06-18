@@ -21,7 +21,7 @@ List of Data Science, AI, Deep Learning, Machine Learning, NLP projects that I t
   
   3. **Urban Sound Recognition:** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Deep%20Learning/Urban%20Sound%20Recognition) The main objective is to identify the sound events from the urban area using Convolutional Netural Networks (CNN) and Multilayer Perceptron (MLP). Scripts include real time sound recognition using computer microphone and CNN model to predict the category.
   
-  4. **Email Sentiment Analysis:** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/NLP/Email%20Sentiment%20Analysis) I use VADER and Spacy to perform Natural Language Processing Sentiment Analysis on my work emails to understand if the message I received or the sender are generally positive, negative or neutral.
+  4. **Email Sentiment Analysis:** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/NLP/Email%20Sentiment%20Analysis) I use VADER and Spacy to perform basic Natural Language Processing Sentiment Analysis on my work emails to understand if the message I received or the sender are generally positive, negative or neutral.
 
 ### Data Visualisation
 * * *
