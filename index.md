@@ -8,7 +8,7 @@ This portfolio contains a list of Data Science, Optimization, AI and Machine Lea
 ## Contents: 
 - [Machine Learning](#machine-learning)
 - [Data Visualisation](#data-visualisation)
-- [Mathematical Optimisation](#mathematical-optimization)
+- [Mathematical Optimisation](#mathematical-optimisation)
 
 
 ### Machine Learning
