@@ -3,7 +3,7 @@ layout: default
 ---
 
 # My Portfolio
-This portfolio contains a list of Data Science, Optimisation/Simulation and Data Visualisation works that I developed for hobby and self learning. Click on the [LINK] to view it.
+This portfolio contains a list of Data Science, Optimisation/Simulation and Data Visualisation works that I developed for hobby and self learning. It also contains research papers that I co-written during my career. Click on the [LINK] to view it.
 
 ## Contents: 
 - [Data Science](#data-science)
@@ -36,7 +36,7 @@ Optimisation and Simulation projects built mainly in LINGO (an Optimisation mode
 
   1. **[Paper] Optimised Scheduling of Water Supply Schemes (LINGO):** [[LINK]](https://www.mssanz.org.au/modsim2013/L4/ng.pdf) I helped developed an optimisation model and co-wrote a paper for the MODSIM 2013 conference. The aim is to automate planning around future known events to produce a least cost operational schedule of the water supply scheme and this paper describes the many factors that influence the scheme’s supply and demand sides, the “rules” engine for the operation of the components, the development of the Mathematical Programming Model (MABAL) and the presentation of simulation outcomes.
   
-  2. **[Paper] Routing Field Service Officers with SIMULINK:** [[LINK]](https://www.mssanz.org.au/modsim2015/J4/ng.pdf) A water/sewerage asset failure require an immediate response by Field Service Office (FSO). I developed a simulation model using SIMULINK to simulate the current FSO job assignment process and test some alternative approaches to job prioritisation. This paper describes the approach used to develop risk based job priority zones and the SIMULINK model which I co-wrote for MODSIM 2015 conference.
+  2. **[Paper] Routing Field Service Officers with SIMULINK:** [[LINK]](https://www.mssanz.org.au/modsim2015/J4/ng.pdf) A water/sewerage asset failure require an immediate response by Field Service Office (FSO). I developed a simulation model using SIMULINK to simulate the current FSO job assignment process and test some alternative approaches to job prioritisation. I co-wrote this paper for MODSIM 2015 conference which describes the approach used to develop risk based job priority zones and the SIMULINK model.
   
   3. **Optimise Depot Location (LINGO):** [[LINK]](https://github.com/yvien226/LINGO-Optimization/tree/master/Depot%20Location) This is a simple optimisation project with data being generated randomly. The main objective is to identify the optimal depot location for a water utility to service the maintenance jobs and minimise travel times.
 
