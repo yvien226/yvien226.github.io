@@ -3,7 +3,7 @@ layout: default
 ---
 
 # My Portfolio
-This portfolio contains a list of Data Science, Optimisation/Simulation and Data Visualisation works that I developed for hobby and self learning. It also contains research papers that I co-written during my career. Click on the [LINK] to view it.
+This portfolio contains a list of Data Science, Optimisation/Simulation and Data Visualisation works that I developed for hobby and self learning. It also contains research papers that I co-wrote during my career. Click on the [LINK] to view it.
 
 ## Contents: 
 - [Data Science](#data-science)
