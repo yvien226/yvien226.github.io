@@ -6,7 +6,7 @@ layout: default
 # About Me
 My name is Yee Vien Ng. I was born in Malaysia but I have been living and working in Melbourne, Australia since 2009.
 
-I graduated at RMIT University with Bachelor of Mathematics, and I am presently a Data Scientist. During my career, I assisted clients to develop advanced analytical models, apply Mathematical Optimisation and Machine Learning techniques to help investigate and deliver improvements of the business. 
+I graduated at RMIT University with Bachelor of Mathematics, and I am presently a Data Scientist/Data Analyst. During my career, I assisted clients to develop advanced analytical models, apply Mathematical Optimisation and Machine Learning techniques to help investigate and deliver improvements of the business. 
 
 Some of the tools that I used include:
 - **MATLAB:** For Data Analysis, Machine Learning and Optimisation
@@ -18,9 +18,9 @@ Some of the tools that I used include:
 - **Simulink:** For Data Simulation
 - **LINGO:** For Optimisation
 
-I have always been interested in Data Science, Optimization, AI and Machine Learning. I love building things and I like to use data to tell compelling stories and to solve various problems. I also enjoy coding and learning new programming languages in my spare time. Outside of my work and programming, I love to go out for a run and swim.
+I have always been interested in Data Science, Optimisation, AI and Machine Learning. I love building things and I like to use data to tell compelling stories and to solve various problems. I also enjoy coding and learning new programming languages in my spare time. Outside of my work and programming, I love to go out for a run, bike or swim.
 
-If you would like to know more about me or just like to chat, feel free to [contact me](./contact.html). :)
+If you would like to know more about me or just like to chat, feel free to [contact me](./contact.html). 
 
 
 
