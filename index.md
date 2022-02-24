@@ -25,7 +25,7 @@ List of Data Science, AI, Deep Learning, Machine Learning, NLP projects that I t
   
   5. **Real Time Object Recognition using Tensorflow (Python):** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Real%20Time%20Object%20Recognition) A real time object recognition through computer webcam using Tensorflow and a pre-trained model. This folder also includes a script that counts and records number of people in real time event, and the idea is to produce a real time human detection and counting system through webcam.
 
-  6. **Automated Sewer Pipe CCTV Defect Detection using Tensorflow (Python):** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition) A pilot project with City West Water to develop an object recognition model to automatically review sewer pipe CCTV video files and identify three defect types (cracks, tree roots and voids). This folder does not include the model but shows the outcome of the model.
+  6. **Automated CCTV Sewer Pipe Defect Detection using Tensorflow (Python):** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition) A pilot project with City West Water to develop an object recognition model to automatically review sewer pipe CCTV video files and identify three defect types (cracks, tree roots and voids). This folder does not include the model but shows the outcome of the model.
   
 
 ### Data Visualisation
