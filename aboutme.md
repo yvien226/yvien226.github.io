@@ -18,7 +18,7 @@ Some of the tools that I used include:
 - **Simulink:** For Data Simulation
 - **LINGO:** For Optimisation
 
-I have always been interested in Data Science, Optimisation, AI and Machine Learning. I love building things and I like to use data to tell compelling stories and to solve various problems. I also enjoy coding and learning new programming languages in my spare time. Outside of my work and programming, I love to go out for a run, bike or swim.
+I have always been interested in Data Science, Optimisation, AI and Machine Learning. I love building things and I like to use data to tell compelling stories and to solve various problems. I also enjoy coding and learning new programming languages in my spare time. Outside of my work and programming, I enjoy running, hiking, watching TV and sports, playing music instruments and making art crafts.
 
 If you would like to know more about me or just like to chat, feel free to [contact me](./contact.html). 
 
