@@ -26,10 +26,14 @@ List of Data Science related projects that I tackled using Python/R/MATLAB.
   3. **Urban Sound Recognition (DL, Python):** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Deep%20Learning/Urban%20Sound%20Recognition) The main objective is to identify the sound events from the urban area using Convolutional Netural Networks (CNN) and Multilayer Perceptron (MLP). Scripts include real time sound recognition using computer microphone and CNN model to predict the category.
   
   4. **Email Sentiment Analysis (NLP, Python):** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/NLP/Email%20Sentiment%20Analysis) I use VADER and Spacy to perform basic Natural Language Processing Sentiment Analysis on my work emails to understand if the message I received or the sender are generally positive, negative or neutral.
-  
-  5. **Real Time Object Recognition using Tensorflow (DL, Python):** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Real%20Time%20Object%20Recognition) A real time object recognition through computer webcam using Tensorflow and a pre-trained model. This folder also includes a script that counts and records number of people in real time event, and the idea is to produce a real time human detection and counting system through webcam.
 
-  6. **Automated CCTV Sewer Pipe Defect Detection using Tensorflow (DL, Python):** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition) A pilot project with City West Water to develop an object recognition model to automatically review sewer pipe CCTV video files and identify three defect types (cracks, tree roots and voids). This folder does not include the model but shows the outcome of the model.
+  5. **Money bot (NLP, Java):** [[LINK]]()  A bot that converts currency and provide currency rates. To be populated
+  
+  6. **Real Time Object Recognition using Tensorflow (DL, Python):** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Real%20Time%20Object%20Recognition) A real time object recognition through computer webcam using Tensorflow and a pre-trained model. This folder also includes a script that counts and records number of people in real time event, and the idea is to produce a real time human detection and counting system through webcam.
+
+  7. **Automated CCTV Sewer Pipe Defect Detection using Tensorflow (DL, Python):** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition) A pilot project with City West Water to develop an object recognition model to automatically review sewer pipe CCTV video files and identify three defect types (cracks, tree roots and voids). This folder does not include the model but shows the outcome of the model.
+
+  8. **Intent Based Resume Chatbot (NLP, DL, Python):** [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/blob/master/NLP/Resume%20Chatbot/) A simple neural network + NLP intent based resume chatbot which uses NLP to interpret human languages, predicts the user's intent on my work experience and produce the best response from the tag. 
 
 
 ### Data Mining and Wrangling
