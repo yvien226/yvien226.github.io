@@ -7,9 +7,9 @@ This portfolio contains a list of Data Science, AI/ML(Machine Learning), Optimis
 
 ## Contents: 
 - [Data Science](#data-science)
-- [Data Mining & Wrangling](#data-mining-and-wrangling)
 - [Data Visualisation](#data-visualisation)
 - [Optimisation & Simulation](#optimisation-and-simulation)
+- [Code Snippets](#code-snippets)
 
 
 
@@ -17,12 +17,12 @@ This portfolio contains a list of Data Science, AI/ML(Machine Learning), Optimis
 * * *
 Data Science, AI and Machine Learning related projects 
 
-*(ML = Machine Learning, DL = Deep Learning, NLP = Natural Language Processing, RL = Reinforcement Learning)*
+*(DS = Data Science, ML = Machine Learning, DL = Deep Learning, NLP = Natural Language Processing, RL = Reinforcement Learning)*
 
 
   1. **Recruit Restaurant Forecasting Vistor (ML, Python):**  [[LINK]](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Kaggle/Recruit%20Restaurant%20Visitor%20Forecasting) A kaggle project to predict the number of visitors of each restaurants in Japan for future dates.
 
-  2. **BigQuery Geotab Intersection Congestion (ML, Python):** [[LINK]](https://github.com/yvien226/Python-Projects/tree/master/Kaggle/BigQuery%20Geotab%20Intersection%20Congestion) A kaggle project. The notebook analyses the traffic patterns and congestions at the four major cities in USA. The ultimate goal is to predict wait times at the big cities' intersections, which is not included in this folder.
+  2. **BigQuery Geotab Intersection Congestion (DS, Python):** [[LINK]](https://github.com/yvien226/Python-Projects/tree/master/Kaggle/BigQuery%20Geotab%20Intersection%20Congestion) A kaggle project. The notebook analyses the traffic patterns and congestions at the four major cities in USA. The ultimate goal is to predict wait times at the big cities' intersections, which is not included in this folder.
   
   3. **Urban Sound Recognition (DL, Python):** [[LINK]](https://github.com/yvien226/Python-Projects/tree/master/Deep%20Learning/Urban%20Sound%20Recognition) A real time sound recognition using computer microphone and Convolutional Neural Network (CNN) model to predict the category. The main objective is to identify the sound events from the urban area. 
   
@@ -34,17 +34,10 @@ Data Science, AI and Machine Learning related projects
 
   7. **Automated CCTV Sewer Pipe Defect Detection using Tensorflow (DL, Python):** [[LINK]](https://github.com/yvien226/Python-Projects/tree/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition) A pilot project with City West Water to develop an object recognition model to automatically review sewer pipe CCTV video files and identify three defect types (cracks, tree roots and voids). This folder does not include the model, but it will display the outcome of the model.
 
+  8. **Webscraping Lotto data (DS, Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Webs%20Scraping/webscraping_lotto.ipynb) A web scraping notebook to extract Tattslotto and Powerball data from lottolyzer website.
+
   8. **Intent Based Resume Chatbot (NLP, DL, Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/NLP/Resume%20Chatbot/) A simple NLP and Neural Network intent based resume chatbot. The model predicts the user's intent based on the input and produces the best response from the given tag. 
 
-
-### Data Mining and Wrangling
-* * *
-Scripts/Queries and code snippets for data extraction, cleaning and processing.
-
-1. **Auto download Outlook attachments (Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Snippets/Auto_Download_Outlook_Attachments.ipynb) The script downloads csv attachments from MS Outlook and save into local computer.
-2. **Capture screenshots from the video with OpenCV (Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Snippets/Capture%20image%20(screenshot)%20from%20video.ipynb) Using OpenCV to capture images per frame from the video and save it as .png. This is used to extract data images for image labelling in the image recognition projects.
-3. **Auto sort images to Train/Test folder (Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Snippets/Move%20Images%20with%20xml%20to%20Train%20and%20Test%20folder.ipynb) The aftermath of data labelling for the image recognition. This code will sort labelled images into train and test folder based on the nominated ratio.
-4. **Webscraping Lotto data (Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Webs%20Scraping/webscraping_lotto.ipynb) A web scraping notebook to extract Tattslotto and Powerball data from lottolyzer website.
   
 
 ### Data Visualisation
@@ -66,3 +59,15 @@ Optimisation and Simulation projects built mainly in LINGO (an Optimisation mode
   2. **[Paper] Routing Field Service Officers (Sim, SIMULINK):** [[LINK]](https://www.mssanz.org.au/modsim2015/J4/ng.pdf) I co-wrote this paper for the MODSIM 2015 conference. The aim of the project is to develop a simulation model to simulate the current Field Service Officer's (FSO) job assignment process and test some alternative approaches to job prioritisation to help improve the work response rate by the FSOs. This paper describes the approach used to develop risk based job priority zones and how the SIMULINK model is built.
   
   3. **Optimise Depot Location (Opt, LINGO):** [[LINK]](https://github.com/yvien226/Optimisation-Projects/tree/master/Depot%20Location) A simple optimisation project with data being generated randomly. The main objective is to identify the optimal depot location for a water utility to service the maintenance jobs and minimise travel times.
+
+
+### Code Snippets
+* * *
+Useful code snippets for my projects 
+
+1. **Template for training Machine Learning model (Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Snippets/Useful%20Python%20codes%20for%20Machine%20Learning.ipynb) This notebook shows the template to train, test and evaluate all machine learning techniques.
+2. **Auto download Outlook attachments (Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Snippets/Auto_Download_Outlook_Attachments.ipynb) The script downloads csv attachments from MS Outlook and save into local computer.
+3. **Capture screenshots from the video with OpenCV (Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Snippets/Capture%20image%20(screenshot)%20from%20video.ipynb) Using OpenCV to capture images per frame from the video and save it as .png. This is used to extract data images for image labelling in the image recognition projects.
+4. **Auto sort images to Train/Test folder (Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Snippets/Move%20Images%20with%20xml%20to%20Train%20and%20Test%20folder.ipynb) The aftermath of data labelling for the image recognition. This code will sort labelled images into train and test folder based on the nominated ratio.
+5. **Pivot transform MS Access data (SQL):** [[LINK]](https://github.com/yvien226/SQL-Queries/blob/master/Snippets/Access_data_pivot_transform.sql) A MS Access SQL query which performs pivot transforms on a water meter data.
+6. **Printing loop numbers (SQL):** [[LINK]](https://github.com/yvien226/SQL-Queries/blob/master/Snippets/printing%20loop%20numbers%20from%201%20using%20recursive%20method.sql) This query prints out number 1 to 100 using recursive method
