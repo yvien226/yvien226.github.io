@@ -63,7 +63,7 @@ Optimisation and Simulation projects built mainly in LINGO (an Optimisation mode
 
 ### Code Snippets
 * * *
-Useful code snippets for my projects 
+Useful code snippets for the projects 
 
 1. **Template for training Machine Learning model (Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Snippets/Useful%20Python%20codes%20for%20Machine%20Learning.ipynb) This notebook shows the template to train, test and evaluate all machine learning techniques.
 2. **Auto download Outlook attachments (Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Snippets/Auto_Download_Outlook_Attachments.ipynb) The script downloads csv attachments from MS Outlook and save into local computer.
@@ -71,3 +71,4 @@ Useful code snippets for my projects
 4. **Auto sort images to Train/Test folder (Python):** [[LINK]](https://github.com/yvien226/Python-Projects/blob/master/Snippets/Move%20Images%20with%20xml%20to%20Train%20and%20Test%20folder.ipynb) The aftermath of data labelling for the image recognition. This code will sort labelled images into train and test folder based on the nominated ratio.
 5. **Pivot transform MS Access data (SQL):** [[LINK]](https://github.com/yvien226/SQL-Queries/blob/master/Snippets/Access_data_pivot_transform.sql) A MS Access SQL query which performs pivot transforms on a water meter data.
 6. **Printing loop numbers (SQL):** [[LINK]](https://github.com/yvien226/SQL-Queries/blob/master/Snippets/printing%20loop%20numbers%20from%201%20using%20recursive%20method.sql) This query prints out number 1 to 100 using recursive method
+7. **First person shooter movement (C#, Unity):** [[LINK]](https://github.com/yvien226/CSharp-Unity-Scripts/tree/master/FPS) Scripts that programs the movement of a first person shooter in the game engine, this includes object pick up, player look and move around.
