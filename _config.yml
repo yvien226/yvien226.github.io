@@ -14,3 +14,5 @@ github:
   home_url: ./
   contact_url: ./contact.html
   about_url: ./aboutme.html
+
+header_page_refs: ['Home', 'about', 'contact']
