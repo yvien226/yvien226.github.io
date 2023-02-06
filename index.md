@@ -3,7 +3,7 @@ layout: default
 ---
 
 # My Portfolio
-This portfolio contains a list of Data Science, AI/ML(Machine Learning), Optimisation/Simulation and Data Visualisation works that I wrote and developed for hobby and self learning. It also contains research papers that I co-wrote during my professional career. Click on the [LINK] to access to the project description and the code.
+Hi there, thanks for dropping by. This is a collection of the projects that I made during spare time for hobby and self learning. It also contains research papers that I co-wrote during my professional career. Click on the [LINK] to access to the project description and the code.
 
 ## Contents: 
 - [Data Science](#data-science)
