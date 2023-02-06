@@ -1,5 +1,5 @@
 title: Yee Vien's Portfolio
-description: Data Science | Machine Learning | Data Analytics | Data Visualisation | Optimisation
+description: Data Science | Data Visualisation | Optimisation | Simulation
 email: yvien90gmail.com
 show_downloads: true
 google_analytics: G-D4GBC2ETFV
@@ -15,4 +15,4 @@ github:
   contact_url: ./contact.html
   about_url: ./aboutme.html
 
-header_page_refs: ['Home', 'about', 'contact']
+# header_page_refs: ['Home', 'about', 'contact']
