@@ -10,6 +10,7 @@ I attended RMIT University with Bachelor of Science (Mathematics), and I am pres
 
 My skills include:
 - **Programming Languages:** Python, R, Javascript, C#, SQL(Postgres, Redshift, Oracle), VB.Net, VBA
+- **Analytics IDE:** MATLAB, Jupyter notebook, R studio, Visual studio
 - **Cloud Computing:** AWS, Azure ML, GCP
 - **Data Visualization:** Power BI, Tableau
 - **Optimisation:** LINGO
