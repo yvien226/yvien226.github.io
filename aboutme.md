@@ -14,7 +14,7 @@ My skills include:
 - **Data Visualization:** Power BI, Tableau
 - **Optimisation:** LINGO
 - **Simulation:** Simulink
-- 
+
 Outside of my work and programming, I enjoy running, hiking, watching TV and sports, playing music instruments and making art crafts.
 
 If you would like to know more about me or just like to chat, feel free to [contact me](./contact.html). 
