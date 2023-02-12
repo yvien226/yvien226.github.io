@@ -27,14 +27,12 @@ Data Science, AI and Machine Learning related projects
   3. **Urban Sound Recognition (DL, Python):** [[LINK]](https://github.com/yvien226/Deep-Learning/tree/main/Urban%20Sound%20Recognition) A real time sound recognition using computer microphone and Convolutional Neural Network (CNN) model to predict the category. The main objective is to identify the sound events from the urban area. 
   
   4. **Email Sentiment Analysis (NLP, Python):** [[LINK]](https://github.com/yvien226/Natural-Language-Processing/tree/main/Email%20Sentiment%20Analysis) A notebook which uses VADER and Spacy to perform basic NLP Sentiment Analysis on outlook emails to understand if the message I received or the sender are generally positive, negative or neutral.
-
-  5. **Money bot (NLP, Javascript):** [[LINK]]()  A bot that converts currency and provides currency rates. To be populated
   
-  6. **Real Time Object Recognition using Tensorflow (DL, Python):** [[LINK]](https://github.com/yvien226/Deep-Learning/tree/main/Real%20Time%20Object%20Recognition) A real time object recognition through computer webcam using Tensorflow and a pre-trained model. This folder also includes a script that counts and records number of people in real time event.
+  5. **Real Time Object Recognition using Tensorflow (DL, Python):** [[LINK]](https://github.com/yvien226/Deep-Learning/tree/main/Real%20Time%20Object%20Recognition) A real time object recognition through computer webcam using Tensorflow and a pre-trained model. This folder also includes a script that counts and records number of people in real time event.
 
-  7. **Automated CCTV Sewer Pipe Defect Detection using Tensorflow (DL, Python):** [[LINK]](https://github.com/yvien226/Deep-Learning/tree/main/Sewer%20Pipe%20Object%20Recognition) A pilot project with City West Water to develop an object recognition model to automatically review sewer pipe CCTV video files and identify three defect types (cracks, tree roots and voids). This folder does not include the model, but it will display the outcome of the model.
+  6. **Automated CCTV Sewer Pipe Defect Detection using Tensorflow (DL, Python):** [[LINK]](https://github.com/yvien226/Deep-Learning/tree/main/Sewer%20Pipe%20Object%20Recognition) A pilot project with City West Water to develop an object recognition model to automatically review sewer pipe CCTV video files and identify three defect types (cracks, tree roots and voids). This folder does not include the model, but it will display the outcome of the model.
 
-  8. **Webscraping Lotto data (DS, Python):** [[LINK]](https://github.com/yvien226/Python-Scripts/blob/master/Webs%20Scraping/webscraping_lotto.ipynb) A web scraping notebook to extract Tattslotto and Powerball data from lottolyzer website.
+  7. **Webscraping Lotto data (DS, Python):** [[LINK]](https://github.com/yvien226/Python-Scripts/blob/master/Webs%20Scraping/webscraping_lotto.ipynb) A web scraping notebook to extract Tattslotto and Powerball data from lottolyzer website.
 
   8. **Intent Based Resume Chatbot (NLP, DL, Python):** [[LINK]](https://github.com/yvien226/Natural-Language-Processing/tree/main/Resume%20Chatbot) A simple NLP and Neural Network intent based resume chatbot. The model predicts the user's intent based on the input and produces the best response from the given tag. 
 
