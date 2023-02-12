@@ -56,7 +56,7 @@ Optimisation and Simulation projects built mainly in LINGO (an Optimisation mode
   
   2. **[Paper] Routing Field Service Officers (Sim, SIMULINK):** [[LINK]](https://www.mssanz.org.au/modsim2015/J4/ng.pdf) I co-wrote this paper for the MODSIM 2015 conference. The aim of the project is to develop a simulation model to simulate the current Field Service Officer's (FSO) job assignment process and test some alternative approaches to job prioritisation to help improve the work response rate by the FSOs. This paper describes the approach used to develop risk based job priority zones and how the SIMULINK model is built.
   
-  3. **Optimise Depot Location (Opt, LINGO):** [[LINK]](https://github.com/yvien226/Optimisation-Projects/tree/master/Depot%20Location) A simple optimisation project with data being generated randomly. The main objective is to identify the optimal depot location for a water utility to service the maintenance jobs and minimise travel times.
+  3. **Optimise Depot Location (Opt, LINGO):** [[LINK]](https://github.com/yvien226/Optimisation/tree/master/Depot%20Location) A simple optimisation project with data being generated randomly. The main objective is to identify the optimal depot location for a water utility to service the maintenance jobs and minimise travel times.
 
 
 ### Code Snippets
