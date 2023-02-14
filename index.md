@@ -42,7 +42,8 @@ Data Science, AI and Machine Learning related projects
 * * *
 Interactive dashboards and/or report that I developed 
 
-  1. **Interactive Resume (Power BI):**  [[LINK]](https://bit.ly/yeevienresume2) My Interactive Resume.
+  1. **Interactive Resume (PBI):**  [[LINK]](https://bit.ly/yeevienresume2) My Interactive Resume.
+  2. **Enron 1000 Email Sentiment Analysis (PBI):** [[LINK]](https://app.powerbi.com/view?r=eyJrIjoiOTgyZmM4OTctZDQ5NS00M2VjLWEyMjEtNGU1ZDI3MjkwNDkyIiwidCI6ImY5OGI0MDAzLTIzY2UtNGQyNS1iZmM2LWU0Nzg1YzNlMGUyZiJ9) Insights of the sentiment analysis for Enron Corporation's emails to measure the emotion intensities in the email content. 
 
 
 
