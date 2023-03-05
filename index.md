@@ -11,7 +11,7 @@ Hi there, thanks for dropping by. This is a collection of the projects that I ma
 - [Data Visualisation](#data-visualisation)
 - [Optimisation & Simulation](#optimisation-and-simulation)
 - [Data Preparation](#data-preparation)
-- [Gaming](#gaming)
+- [Game & App Development](#game-and-app-development)
 
 
 
@@ -79,11 +79,11 @@ All the code snippets and queries require for preparing the data, this includes 
 3. **Capture screenshots from the video with OpenCV (Python):** [[LINK]](https://github.com/yvien226/Python-Scripts/blob/master/Snippets/Capture%20image%20(screenshot)%20from%20video.ipynb) Using OpenCV to capture images per frame from the video and save it as .png. This is used to extract data images for image labelling in the image recognition projects.
 4. **Auto sort images to Train/Test folder (Python):** [[LINK]](https://github.com/yvien226/Python-Scripts/blob/master/Snippets/Move%20Images%20with%20xml%20to%20Train%20and%20Test%20folder.ipynb) The aftermath of data labelling for the image recognition. This code will sort labelled images into train and test folder based on the nominated ratio, eg 80:20.
 
-### Gaming
+### Game and App Development
 * * *
-Scripts or code snippets for creating games, including Virtual Reality (VR) and Augmented Reality (AR)
+Games and applications development related projects or code snippets, including Virtual Reality (VR) and Augmented Reality (AR)
 
 1. **First person shooter movement (C#, Unity):** [[LINK]](https://github.com/yvien226/Gaming/tree/master/FPS) Part of the virtual reality(VR) project, it contains the scripts that programs the movement of a first person shooter in the game engine, including object pick up, player look and move around.
 
-2. **The Robot Control assignment (Java, Eclipse):** [[LINK]](https://github.com/yvien226/Gaming/tree/master/The%20Robot%20control) Part of my uni programming assignment. The end goal is to build a robot arm which moves block from one place to the target pile.
+2. **The Robot Control assignment (Java, Eclipse):** [[LINK]](https://github.com/yvien226/Gaming/tree/master/The%20Robot%20control) Part of my uni programming assignment. The goal is to build an application to control the robot arm from moving blocks from one place to the target pile while avoiding the bar obstacles.
 
