@@ -40,7 +40,7 @@ Machine Learning, AI and Deep Learning related projects
 
 ### Exploratory Data Analysis
 * * *
-Data analysis to uncover patterns and trends in the datasets.
+Scripts for data analysis to uncover patterns and trends in the dataset.
 
 1. **BigQuery Geotab Intersection Congestion (DS, Python):** [[LINK]](https://github.com/yvien226/Exploratory-Data-Analysis/tree/main/BigQuery%20Geotab%20Intersection%20Congestion) A kaggle project. The notebook analyses the traffic patterns and congestions at the four major cities in USA. The ultimate goal is to predict wait times at the big cities' intersections, which is not included in this folder.
 
