@@ -85,5 +85,5 @@ Scripts or code snippets for creating games, including Virtual Reality (VR) and 
 
 1. **First person shooter movement (C#, Unity):** [[LINK]](https://github.com/yvien226/Gaming/tree/master/FPS) Part of the virtual reality(VR) project, it contains the scripts that programs the movement of a first person shooter in the game engine, including object pick up, player look and move around.
 
-2. **The Robot Control assignment (Java, Eclipse):** [[LINK]](https://github.com/yvien226/Gaming/tree/master/The%20Robot%20control) Part of my uni programming assignment to build a robot arm which moves block from one place to the target pile
+2. **The Robot Control assignment (Java, Eclipse):** [[LINK]](https://github.com/yvien226/Gaming/tree/master/The%20Robot%20control) Part of my uni programming assignment. The end goal is to build a robot arm which moves block from one place to the target pile.
 
