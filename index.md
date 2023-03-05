@@ -10,7 +10,7 @@ Hi there, thanks for dropping by. This is a collection of the projects that I ma
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Visualisation](#data-visualisation)
 - [Optimisation & Simulation](#optimisation-and-simulation)
-- [Data Cleaning & Extraction](#data-cleaning-and-extraction)
+- [Data Preparation](#data-preparation)
 - [Gaming](#gaming)
 
 
@@ -70,9 +70,9 @@ Optimisation and Simulation projects built mainly in LINGO (an Optimisation mode
   3. **Optimise Depot Location (Opt, LINGO):** [[LINK]](https://github.com/yvien226/Optimisation/tree/master/Depot%20Location) A simple optimisation project with data being generated randomly. The main objective is to identify the optimal depot location for a water utility to service the maintenance jobs and minimise travel times.
 
 
-### Data Cleaning and Extraction
+### Data Preparation
 * * *
-Code snippets and queries for data extraction, cleaning and automation, some related to machine learning projects
+All the code snippets and queries require for preparing the data, this includes data extraction, automation, processing, cleaning, wrangling etc. some related to machine learning projects
 1. **Webscraping Lotto data (Python):** [[LINK]](https://github.com/yvien226/Python-Scripts/blob/master/Webs%20Scraping/webscraping_lotto.ipynb) A web scraping notebook to extract Tattslotto and Powerball data from lottolyzer website.
 
 2. **Auto download Outlook attachments (Python):** [[LINK]](https://github.com/yvien226/Python-Scripts/blob/master/Snippets/Auto_Download_Outlook_Attachments.ipynb) The script downloads csv attachments from MS Outlook and save into local computer.
