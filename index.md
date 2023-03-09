@@ -63,7 +63,7 @@ Optimisation and Simulation projects built mainly in LINGO (an Optimisation mode
 
 *(Opt = Optimisation, Sim = Simulation)*
 
-  1. **[Paper] Optimised Scheduling of Water Supply Schemes (Opt, LINGO):** [[LINK]](https://www.mssanz.org.au/modsim2013/L4/ng.pdf) I co-wrote a paper fpr the MODSIM 2013 conference. The aim is to automate planning around future known events to produce a least cost operational schedule of the water supply scheme and this paper describes the development of our MABAL optimisation model, the many factors that influence the scheme’s supply and demand sides, the “rules” engine for the operation of the components and the outcome of simulation.
+  1. **[Paper] Optimised Scheduling of Water Supply Schemes (Opt, LINGO):** [[LINK]](https://www.mssanz.org.au/modsim2013/L4/ng.pdf) I co-wrote a paper for the MODSIM 2013 conference. The aim is to automate planning around future known events to produce a least cost operational schedule of the water supply scheme and this paper describes the development of our MABAL optimisation model, the many factors that influence the scheme’s supply and demand sides, the “rules” engine for the operation of the components and the outcome of simulation.
   
   2. **[Paper] Routing Field Service Officers (Sim, SIMULINK):** [[LINK]](https://www.mssanz.org.au/modsim2015/J4/ng.pdf) I co-wrote this paper for the MODSIM 2015 conference. The aim of the project is to develop a simulation model to simulate the current Field Service Officer's (FSO) job assignment process and test some alternative approaches to job prioritisation to help improve the work response rate by the FSOs. This paper describes the approach used to develop risk based job priority zones and how the SIMULINK model is built.
   
