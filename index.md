@@ -46,7 +46,9 @@ Machine Learning, AI and Deep Learning related projects
 * * *
 Scripts for data analysis to uncover patterns and trends in the dataset.
 
-1. **BigQuery Geotab Intersection Congestion (DS, Python):** [[LINK]](https://github.com/yvien226/Exploratory-Data-Analysis/tree/main/BigQuery%20Geotab%20Intersection%20Congestion) A kaggle project. The notebook analyses the traffic patterns and congestions at the four major cities in USA. The ultimate goal is to predict wait times at the big cities' intersections, which is not included in this folder.
+1. **Feature Diagnostics (DS, Python):** [[LINK]](https://github.com/yvien226/Exploratory-Data-Analysis/tree/main/Feature%20Diagnostics): A notebook used to examine the data quality of individual features and assess their relationship with the target feature. A sample Telco Customer Churn dataset is used to run the notebook.
+
+2. **BigQuery Geotab Intersection Congestion (DS, Python):** [[LINK]](https://github.com/yvien226/Exploratory-Data-Analysis/tree/main/BigQuery%20Geotab%20Intersection%20Congestion) A kaggle project. The notebook analyses the traffic patterns and congestions at the four major cities in USA. The ultimate goal is to predict wait times at the big cities' intersections, which is not included in this folder.
 
 <br>
 
@@ -77,7 +79,7 @@ Optimisation and Simulation projects built mainly in LINGO (an Optimisation mode
 
 ### Data Preparation
 * * *
-All the code snippets and queries require for preparing the data, this includes data extraction, automation, processing, cleaning, wrangling etc. some related to machine learning projects
+All the code snippets and queries for data preparation, encompassing tasks such as data extraction, automation, processing, cleaning, wrangling etc. Some of these tasks are associated with machine learning projects.
 1. **Webscraping Lotto data (Python):** [[LINK]](https://github.com/yvien226/Python-Scripts/blob/master/Webs%20Scraping/webscraping_lotto.ipynb) A web scraping notebook to extract Tattslotto and Powerball data from lottolyzer website.
 
 2. **Auto download Outlook attachments (Python):** [[LINK]](https://github.com/yvien226/Python-Scripts/blob/master/Snippets/Auto_Download_Outlook_Attachments.ipynb) The script downloads csv attachments from MS Outlook and save into local computer.
